@@ -1,7 +1,6 @@
 const Discord = require("discord.js");
 const YTDL = require("ytdl-core");
 const botconfig = require("./botconfig.json");
-const tokenfile = require("./token.json");
 const fs = require("fs");
 const bot = new Discord.Client({disableEveryone: true});
 bot.commands = new Discord.Collection();
