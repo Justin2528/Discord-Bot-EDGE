@@ -39,7 +39,8 @@ antispam(bot, {
     banMessage: " was banned for spamming. Don't test EDGE bots anti spam. Would anyone else like a try?", // Ban message, always tags the banned user in front of it.
     maxDuplicatesWarning: 7, // Maximum amount of duplicate messages a user can send in a timespan before getting warned
     maxDuplicatesBan: 10, // Maximum amount of duplicate messages a user can send in a timespan before getting banned
-    deleteMessagesAfterBanForPastDays: 7 // Delete the spammed messages after banning for the past x days.
+    deleteMessagesAfterBanForPastDays: 7,
+    exemptRoles: ["📡 | Admin", "⛔️ | Sr. Admin"]// Delete the spammed messages after banning for the past x days.
 });
 
 
