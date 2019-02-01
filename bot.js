@@ -32,8 +32,8 @@ function play(connection, message) {
 
 
 antispam(bot, {
-    warnBuffer: 3, //Maximum amount of messages allowed to send in the interval time before getting warned.
-    maxBuffer: 5, // Maximum amount of messages allowed to send in the interval time before getting banned.
+    warnBuffer: 10, //Maximum amount of messages allowed to send in the interval time before getting warned.
+    maxBuffer: 12, // Maximum amount of messages allowed to send in the interval time before getting banned.
     interval: 1000, // Amount of time in ms users can send a maximum of the maxBuffer variable before getting banned.
     warningMessage: " [ ! ] WARNING, If you continue spamming you will be banned.", // Warning message send to the user indicating they are going to fast.
     banMessage: " was banned for spamming. Don't test EDGE bots anti spam. Would anyone else like a try?", // Ban message, always tags the banned user in front of it.
