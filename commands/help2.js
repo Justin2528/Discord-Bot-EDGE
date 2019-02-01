@@ -14,6 +14,7 @@ module.exports.run = async (bot, message, args) => {
     .addField("welmsgsetup", "Set up the Welcome Channel", true)
     .addField("botnews", "The Bot News!", true)
     .addField("invite", "Invite the bot if you like it!", true)
+    .addField("botsite/vote", "take you to discordbot.org then go to the bot website/ vote for the bot", true)
     .addField("battle <mention>", "Battle to the death", true)
     .addField("totalwin (beta)", "Battle stuff", true)
     .addField("play <link> (press space 2 time then link)/stop/skip","**NEW!** Music Command", true)
