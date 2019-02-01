@@ -37,8 +37,8 @@ antispam(bot, {
     interval: 1000, // Amount of time in ms users can send a maximum of the maxBuffer variable before getting banned.
     warningMessage: " [ ! ] WARNING, If you continue spamming you will be banned.", // Warning message send to the user indicating they are going to fast.
     banMessage: " was banned for spamming. Don't test EDGE bots anti spam. Would anyone else like a try?", // Ban message, always tags the banned user in front of it.
-    maxDuplicatesWarning: 7, // Maximum amount of duplicate messages a user can send in a timespan before getting warned
-    maxDuplicatesBan: 10, // Maximum amount of duplicate messages a user can send in a timespan before getting banned
+    maxDuplicatesWarning: 10, // Maximum amount of duplicate messages a user can send in a timespan before getting warned
+    maxDuplicatesBan: 30, // Maximum amount of duplicate messages a user can send in a timespan before getting banned
     deleteMessagesAfterBanForPastDays: 7,
     exemptRoles: ["📡 | Admin", "⛔️ | Sr. Admin"]// Delete the spammed messages after banning for the past x days.
 });
