@@ -36,3 +36,6 @@ exports.run = async(client, message, args, ops) => {
 
     veriflog.send(verifembed);
 }
+exports.help = {
+  name: "verify"
+}
