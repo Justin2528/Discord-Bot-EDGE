@@ -9,7 +9,6 @@ let xp = require("./xp.json");
 const antispam = require("discord-anti-spam");
 
 
-const ez = "ez";
 
 var servers = {};
 
