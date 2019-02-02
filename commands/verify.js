@@ -16,7 +16,7 @@ exports.run = async(client, message, args, ops) => {
     // Check if a user has been mentioned.
     if (!toverify) return message.reply("You need to mention a user.");
     // Add the role to the user if one is mentioned.
-    await (toverify.addRole(verifyrole.id, merole));
+    await (toverify.addRole(verifyrole.id, merole.id));
 
     // Find the 'Need - Verification Role' , then remove it.
     let delrole = message.guild.roles.find(`name`, "Need Verification");
