@@ -22,4 +22,6 @@
 
 ### **You found some bugs/glitch from the bots? Go to our [Support Server](https://discord.gg/atr2JFR)!**
 
+[![Discord Bots](https://discordbots.org/api/widget/510122334795989003.svg)](https://discordbots.org/bot/510122334795989003)
+
 -----
