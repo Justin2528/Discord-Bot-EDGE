@@ -7,7 +7,8 @@ exports.run = async (bot, message, args) => {
         string += '***Server Name:*** ' + guild.name + '\n' + '***Server ID:***` ' + guild.id + ' ` ' + '\n\n';
 
     })
-    message.channel.send("Bot is on" + string)
+    message.channel.send("Bot is on,")
+    message.channel.send(string)
 }
 exports.help = {
     name: "boton"
