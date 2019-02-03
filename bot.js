@@ -39,8 +39,8 @@ antispam(bot, {
     maxDuplicatesWarning: 8, // Maximum amount of duplicate messages a user can send in a timespan before getting warned
     maxDuplicatesBan: 24, // Maximum amount of duplicate messages a user can send in a timespan before getting banned
     deleteMessagesAfterBanForPastDays: 7,
-    exemptRoles: ["📡 | Admin", "⛔️ | Sr. Admin", "+", "-", "👤 | Co-Owner", "💻| Developer", "💻 | Executive Manager", "👑 | Owner"]// Delete the spammed messages after banning for the past x days.
-});
+    exemptRoles: ["📡 | Admin", "⛔️ | Sr. Admin", "+", "-", "💎 | Manager", "👤 | Co-Owner", "💻| Developer", "💻 | Executive Manager", "👑 | Owner"]// Delete the spammed messages after banning for the past x days.
+)};
 
 
 
