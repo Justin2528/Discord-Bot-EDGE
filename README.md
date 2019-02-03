@@ -24,6 +24,5 @@
 
 [![Discord Bots](https://discordbots.org/api/widget/510122334795989003.svg)](https://discordbots.org/bot/510122334795989003)
 
-<iframe src="https://discordapp.com/widget?id=529886568689827871&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 
 -----
