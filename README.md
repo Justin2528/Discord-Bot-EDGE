@@ -24,5 +24,7 @@
 
 [![Discord Bots](https://discordbots.org/api/widget/510122334795989003.svg)](https://discordbots.org/bot/510122334795989003)
 
+# **Github: PLEASE REPORT ISSUE IF YOU FOUND THEM.**
+
 
 -----
