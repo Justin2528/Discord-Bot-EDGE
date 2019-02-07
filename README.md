@@ -28,6 +28,6 @@
 
 # **Github: PLEASE REPORT ISSUE IF YOU FOUND THEM.**
 
-[Click me](http://www.google.com){: .btn}
+{% include button.html button_name="My Button" button_class="primary" %}
 
 -----
