@@ -28,6 +28,6 @@
 
 # **Github: PLEASE REPORT ISSUE IF YOU FOUND THEM.**
 
-{% include button.html button_name="My Button" button_class="primary" %}
+
 
 -----
