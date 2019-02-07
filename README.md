@@ -18,6 +18,8 @@
 
 -**And Much Much More!**
 
+-**24/7!**
+
 ## **Want more feature and command? Invite the bot and type e!suggest (the idea for the bot) to suggest!**
 
 ### **You found some bugs/glitch from the bots? Go to our [Support Server](https://discord.gg/atr2JFR)!**
