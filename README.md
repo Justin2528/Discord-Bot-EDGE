@@ -28,6 +28,6 @@
 
 # **Github: PLEASE REPORT ISSUE IF YOU FOUND THEM.**
 
-<input type="button" value="I'm here">
+<input type="button" value="EDGE's Info In Discord Bot" onclick="location.href=''">
 
 -----
