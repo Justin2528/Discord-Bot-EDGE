@@ -14,7 +14,6 @@
 
 -**Economy!**
 
--**Anti-Spam Feature!**
 
 -**And Much Much More!**
 
