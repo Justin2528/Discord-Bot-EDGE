@@ -29,5 +29,5 @@
 
 <input type="button" value="EDGE's Info In Discord Bot" onclick="location.href='https://discordbots.org/bot/510122334795989003'">
 
-<a href="https://www.patreon.com/bePatron?u=17310571" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
 -----
