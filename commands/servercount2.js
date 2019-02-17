@@ -6,9 +6,8 @@ const dbl = new DBL('eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjUxMDEyMjMzND
 exports.run = async(bot, message, args) => {
 
 // Optional events
-dbl.on('posted', message => {
+dbl.on('posted', () => {
   console.log('Server count posted!');
-  message.channel.send("ok")
   
 })
 
