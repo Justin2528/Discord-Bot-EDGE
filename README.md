@@ -25,7 +25,7 @@
 
 [![Discord Bots](https://discordbots.org/api/widget/510122334795989003.svg)](https://discordbots.org/bot/510122334795989003)
 
-[BotsonDiscord](https://botsfordiscord.com/api/bot/510122334795989003/widget.png)
+[![BotsonDiscord](https://botsfordiscord.com/api/bot/510122334795989003/widget.png)](https://botsfordiscord.com/bot/510122334795989003)
 
 # **Github: PLEASE REPORT ISSUE IF YOU FOUND THEM.**
 
