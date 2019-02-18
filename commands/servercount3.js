@@ -8,8 +8,8 @@ exports.run = async (bot, message, args) => {
             'guildCount': bot.guilds.size,
         })
         .then(console.log('Updated DBG Stats'))
-        message.channel.send("yes you did it.s")
+        message.channel.send("yes you did it. actually i won :D")
 }
 exports.help = {
-    name: "servercount"
+    name: "servercount3"
 }
