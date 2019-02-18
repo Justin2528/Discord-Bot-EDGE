@@ -27,6 +27,8 @@
 
 [![BotsonDiscord](https://botsfordiscord.com/api/bot/510122334795989003/widget.png)](https://botsfordiscord.com/bot/510122334795989003)
 
+[![EDGE](https://bots.ondiscord.xyz/bots/510122334795989003/embed?theme=dark&showGuilds=true)](https://bots.ondiscord.xyz/bots/510122334795989003)
+
 # **Github: PLEASE REPORT ISSUE IF YOU FOUND THEM.**
 
 <input type="button" value="EDGE's Info In Discord Bot" onclick="location.href='https://discordbots.org/bot/510122334795989003'">
