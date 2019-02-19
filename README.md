@@ -35,3 +35,6 @@
 
 [Become a Patron!](https://www.patreon.com/bePatron?u=17310571)
 -----
+
+
+# **Github News: I have made this repo public and i have a backup for it. Please don't destroy it or the bot will crash and I need to reset it again.**
