@@ -1,0 +1,6 @@
+**Please Follow this format**
+(Only Javascript)
+**Your Name**
+**Age**
+**Your project**
+**Why you want to be a developer of EDGE?**
