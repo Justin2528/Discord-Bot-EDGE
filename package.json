@@ -13,6 +13,7 @@
     "dblapi.js": "^2.3.0",
     "discord-anti-spam": "^1.1.6",
     "discord.js": "^11.4.2",
+        "ffmpeg-binaries": "^4.0.0",
     "fortnite": "^4.1.1",
     "fs": "0.0.1-security",
     "google": "^2.1.0",
